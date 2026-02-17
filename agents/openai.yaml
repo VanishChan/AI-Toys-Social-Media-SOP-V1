@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social媒体SOP"
+  short_description: "小红书主站+抖音分发内容SOP"
+  default_prompt: "根据我提供的Social Brief，完成新红榜单挖掘、选题筛选、图文/视频决策、双平台内容包和1/2/7天复盘结论。"
