@@ -1,4 +1,4 @@
-# Social Media Skill (XHS + Douyin)
+# Social Media Skill (XHS + Douyin) 2026028
 
 A production-ready Codex Skill for social media operations with:
 - Brief-first planning
